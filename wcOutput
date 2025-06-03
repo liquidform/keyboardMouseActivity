@@ -1,0 +1,5 @@
+#!/bin/bash
+
+wc -m test
+wc -m test2
+#wc -m test3
