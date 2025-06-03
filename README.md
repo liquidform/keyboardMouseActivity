@@ -1,6 +1,7 @@
 # keyboardMouseActivity
 Track keyboard and mouse activity in real time using aw-watcher-input in Activity Watch.
 
+- keyboardMouseActivity0.py and keyboardMouseActivity2.py weren't outputting what I intended so I attempted to correct them in a 'hacky' kind of way in keyboardMouseActivity1.py and keyboardMouseActivity3.py respectively and they work better but I'm guessing not the direction I want to go in the long run.
 - keyboardMouseActivity0.py is a simplified first major attempt
 - keyboardMouseActivity1.py is a revised (perhaps unclean) first major attempt
 - keyboardMouseActivity2.py is a simplified second major attempt
